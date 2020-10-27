@@ -9,7 +9,7 @@ certifi==2018.8.24
 chardet==3.0.4
 Click==7.0
 configparser==3.7.4
-cryptography==2.1.4
+cryptography==3.2
 decorator==4.4.0
 defusedxml==0.5.0
 docker==3.5.0
