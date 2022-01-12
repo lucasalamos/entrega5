@@ -48,7 +48,7 @@ pandocfilters==1.4.2
 pathlib2==2.3.3
 pexpect==4.7.0
 pickleshare==0.7.5
-pipenv==2018.11.26
+pipenv==2022.1.8
 prettytable==0.7.2
 prometheus-client==0.6.0
 prompt-toolkit==1.0.15
